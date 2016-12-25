@@ -7,16 +7,16 @@ Office Hours: Wed 12-1pm
 Teaching Assistant: Will Geary (wcg2111)
 Office Hours: Thurs 1-2pm (previous email required)
 
-# GIS Tutorial Schedule
+## GIS Tutorial Schedule
 
-## Week 1: Introduction to GIS
+### Week 1: Introduction to GIS
 January 23
 * What is GIS?
 * Working with geographic data
 * Mapping software (QGIS)
 * What is a shapefile
 
-## Week 2: Introduction to mapping concepts and techniques
+### Week 2: Introduction to mapping concepts and techniques
 January 30
 * Emphasis on *metadata*
 * Elements of cartography (notations and conventions)
