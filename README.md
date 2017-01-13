@@ -1,5 +1,5 @@
 # Mapping Asian / Americas Art
-This is the repository for the ***Mapping Asian / Americas Art*** course at Columbia University. Some of the tutorials in this repository will borrow from Juan Francisco Saldarriaga's Fall 2016 [***Mapping for Architecture, Urbanism and the Humanities***](https://github.com/juanfrans-courses/mapping_arch_hum) course.
+This is the repository for the ***Mapping Asian / Americas Art*** course at Columbia University.
 
 Professor:  Ana Paulina Lee (apl2147)
 Office Hours: Wed 12-1pm
@@ -9,12 +9,11 @@ Office Hours: Thurs 1-2pm (previous email required)
 
 ## GIS Tutorial Schedule
 
-### Week 1: Creating a Basic Map
+### Week 1: Creating a World Map
 January 23
-* What is GIS?
-* Working with geographic data
-* Mapping software (QGIS)
-* What is a shapefile?
+* Prior to class, please do the following:
+  * asdf
+  * asdf
 
 ### Week 2:
 January 30
