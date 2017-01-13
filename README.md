@@ -11,11 +11,9 @@ Office Hours: Thurs 1-2pm (previous email required)
 
 ### Week 1: Creating a World Map
 January 23
-* Prior to class, please do the following:
-  * asdf
-  * asdf
 
-### Week 2:
+
+### Week 2: Mapping Population Density of Brazil
 January 30
 
 
