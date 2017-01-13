@@ -1,5 +1,5 @@
 # Mapping Asian / Americas Art
-This is the repository for the ***Mapping Asian / Americas Art*** Spring 2017 course at Columbia University.
+This repository includes the GIS tutorials for the Spring 2017 ***Mapping Asian / Americas Art*** course at Columbia University.
 
 Professor:  Ana Paulina Lee (apl2147)
 Office Hours: Wed 12-1pm
@@ -13,7 +13,7 @@ Office Hours: Thurs 1-2pm (previous email required)
 January 23
 
 
-### Week 2: Mapping Population Density of Brazil
+### Week 2: Mapping the Population Density of Brazil
 January 30
 
 
