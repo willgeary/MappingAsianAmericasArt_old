@@ -1,5 +1,5 @@
 # Mapping Asian / Americas Art
-This is the repository for the ***Mapping Asian / Americas Art*** course at Columbia University.
+This is the repository for the ***Mapping Asian / Americas Art*** Spring 2017 course at Columbia University.
 
 Professor:  Ana Paulina Lee (apl2147)
 Office Hours: Wed 12-1pm
